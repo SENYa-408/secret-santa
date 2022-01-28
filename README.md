@@ -25,7 +25,7 @@ npm run migrate
 ```
 npm start  
 ```
-or start the server with nodemon
+or start the server with nodemon (requires installation of ![nodemon](https://www.npmjs.com/package/nodemon))
 ```
 npm run startDev
 ```
